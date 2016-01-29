@@ -1,0 +1,17 @@
+baseurl = "http://www.syngrato.com/"
+languageCode = "en-uk"
+title = "SYNGRATO"
+
+[params]
+	description = "- next generation contract negotiation and management platform"
+	googleAnalytics = ""
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:mac@syngrato.com"
+
+[[params.social]]
+	title = "linkedin"
+	icon = "linkedin"
+	url = "https://dk.linkedin.com/in/martinalbertclausen"
